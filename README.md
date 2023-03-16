@@ -1,16 +1,12 @@
-# Skype Status Bot
+# Wordle Solve Bot
 
-Just a Puppeteer script that will login to your Skype account and will set your currently playing song on Spotify as status.
+A bot that will solve wordle for you (Macedonian version)
 
-# Running
+# 4Fun
 
-Before trying to run the bot, please refer to the .env.example file
-
-```shell
-pnpm install
-pnpm dev
-```
+This bot is made just for fun to prove my colleagues that everything is 'hackable'
+Have fun using this :D
 
 # TODO
 
-- [ ] Refactor code, I'm currently short on time and lazy, I will probably refactor this code when I have some more free time
+- [ ] Implement feature that will let users choose which version of wordle they want to solve.
